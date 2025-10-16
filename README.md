@@ -29,18 +29,23 @@ PROCEDURE:
 7.	The output voltage is obtained in the Multimeter and the input and output voltage waveforms are plotted in a graph sheet.
 
 MODEL GRAPH: 
+
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+
 <img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/e29771a1-494d-42db-bcd6-ad413170b547" />
 
 CALCULATION:
+
 <img width="1280" height="1187" alt="image" src="https://github.com/user-attachments/assets/7f93b5f5-fe5a-4fda-be59-6add28a83412" />
 
 GRAPH: 
+
 <img width="798" height="1040" alt="image" src="https://github.com/user-attachments/assets/c2cc9b07-dd13-4999-b715-2442e24dff6d" />
 
 
 RESULT:
+
 Thus an instrumentation amplifier was constructed and tested using op-amp IC 741.
 
